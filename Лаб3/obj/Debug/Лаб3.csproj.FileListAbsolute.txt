@@ -1,0 +1,11 @@
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб3\Лаб3\bin\Debug\Лаб3.exe.config
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб3\Лаб3\bin\Debug\Лаб3.exe
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб3\Лаб3\bin\Debug\Лаб3.pdb
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб3\Лаб3\obj\Debug\Лаб3.csproj.AssemblyReference.cache
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб3\Лаб3\obj\Debug\Лаб3.Properties.Resources.resources
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб3\Лаб3\obj\Debug\Лаб3.csproj.GenerateResource.cache
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб3\Лаб3\obj\Debug\Лаб3.csproj.CoreCompileInputs.cache
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб3\Лаб3\obj\Debug\Лаб3.exe
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб3\Лаб3\obj\Debug\Лаб3.pdb
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб3\Лаб3\obj\Debug\Лаб3.Client.resources
+D:\C#\Лабы ИБ\Лабы ИБ_2сем\Лаб3\Лаб3\obj\Debug\Лаб3.RC4.resources
